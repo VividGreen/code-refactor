@@ -8,8 +8,14 @@ body {
     background-color: #343a40 !important;
 }
 
-.btn-info {
-    background-color: #136873 !important;
+.nav-link {
+    color: white;
+    
+}
+
+.nav-link:hover {
+    color: #00daf7;
+    
 }
 
 .header h1 {
@@ -99,9 +105,8 @@ section h2 {
     font-family: 'Playfair Display', serif;
 }
 
-article {
+main {
     color: #ffffff;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .box {
